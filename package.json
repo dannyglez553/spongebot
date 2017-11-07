@@ -1,0 +1,12 @@
+{
+  "name": "sponge-bot",
+  "version": "1.0.0",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "Daniel Gonzalez",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "pm2": "^2.7.2",
+    "winston": "^2.4.0"
+  }
+}
